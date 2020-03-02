@@ -7,3 +7,17 @@
 - 27-Jan k-th 
 - 28-Jan llMerge
 - 1-Jan Stack and Queue Implementation
+- 3-Feb Fifi Animal Shelter
+- 4-Feb Multi-bracket Validation.
+- 5-Feb Binary Tree and BST Implementation
+- 10-Feb fizz buzz tree
+- 11-Feb Breadth first Traversal.
+- 12-Feb  Maximum Value in a Binary Tree
+- 13-Feb Mock Interviews
+- 24-Feb Insertion Sort
+- 25-Feb Merge Sort
+- 26-Feb Quick Sort
+- 27-Feb Mock Interviews
+- 28-Feb Hash Table Implementation
+- 1-Feb Repeted Word
+- 2-Feb Tree intersection
